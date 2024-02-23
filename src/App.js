@@ -8,7 +8,7 @@ function App() {
       <div className="container">
         <CurrentLocation />
       </div>
-      <div className="footer-info">
+      {/* <div className="footer-info">
         <a href="https://www.htmlhints.com/article/how-to-create-toggle-switch/93">
           Download Source Code
         </a>{" "}
@@ -20,7 +20,7 @@ function App() {
         <a target="_blank" href="https://www.htmlhints.com/">
           HTML HINTS
         </a>
-      </div>
+      </div> */}
     </React.Fragment>
   );
 }
